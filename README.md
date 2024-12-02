@@ -26,3 +26,17 @@ including **Cloudflare Workers**, **PHP**, or any other server environment.
 ---
 
 ### 📂 Folder Structure
+Telegram-Webhook-Manager/ 
+├── index.html      # Main HTML file 
+├─ style.css       # Stylesheet for the 
+├── script.js       # JavaScript for functionality
+
+2. Host Locally:
+Open index.html in any browser to run locally.
+
+
+3. Deploy Online:
+
+Use platforms like GitHub Pages, Cloudflare Pages, or Vercel for free hosting.
+
+
